@@ -41,3 +41,9 @@ video{
 video{
     box-shadow: -1px 3px 40px 0px #95c4da40;
 }
+.img-kmeans{
+    width: 50%;
+}
+.bg-white{
+    background-color: #d3d3d3;
+}
